@@ -1,6 +1,6 @@
 # TREAL
 
-## Langue de l'Afrique de l'est plus langues Erythréene et Ethiopienne.
+## Traduction langue de l'Afrique de l'est plus langues Erythréene et Ethiopienne.
 
 - Tigrigna
 - Tigre
