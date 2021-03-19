@@ -1,9 +1,10 @@
-- TREAL
-  Langue de l'Afrique de l'est plus langues Erythréene et Ethiopienne.
+# TREAL
 
-* Tigrigna
-* Tigre
-* Amharic
-* Oromo
-* Arabique
-* Hadiya
+## Langue de l'Afrique de l'est plus langues Erythréene et Ethiopienne.
+
+- Tigrigna
+- Tigre
+- Amharic
+- Oromo
+- Arabique
+- Hadiya
