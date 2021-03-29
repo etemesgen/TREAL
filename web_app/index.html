@@ -6,13 +6,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" type="text/css" href="./css/style.css" />
     <link rel="stylesheet" type="text/css" href="./css/responsive.css" />
-    <link rel="shortcut icon" type="image/png" href="./asset/TREAL.ico">
+    <link rel="shortcut icon" type="image/png" href="./asset/TREAL.ico" />
     <title>TREAL</title>
   </head>
   <body>
     <header>
       <section id="nav1">
-        <p id="adresse">176 RUE DE JAVEL 75015</p>
+        <p id="adresse">
+          <a
+            href="https://www.google.com/maps/place/176+Rue+de+Javel,+75015+Paris/@48.840783,2.291673,14z/data=!4m13!1m7!3m6!1s0x47e6701394d4343f:0x652056052e5648c4!2s176+Rue+de+Javel,+75015+Paris!3b1!8m2!3d48.8407732!4d2.2915253!3m4!1s0x47e6701394d4343f:0x652056052e5648c4!8m2!3d48.8407732!4d2.2915253"
+            target="_blank"
+            >176 RUE DE JAVEL 75015</a
+          >
+        </p>
         <p id="slogan">
           LANGUES DE L'AFRIQUE DE L'EST PLUS DE L'ÉTHIOPIE ET L'ÉRYTHRÉE
         </p>
@@ -23,14 +29,21 @@
         <img src="./asset/TREAL.png" alt="logo" id="logo" />
         <nav>
           <ul>
-            <li>ACCUEIL</li>
-            <li>QUI SOMMES-NOUS</li>
-            <li>NOS LANGUES TRADUITES
-              <li>LANGUES ORIGINAIRE ÉTHIOPIE</li>
-              <li>LANGUES ORIGINAIRE ÉRYTHRÉE</li>
-              <li>LANGUES ORIGINAIRE ARABE</li>
+            <li><a href="#">ACCUEIL</a></li>
+            <li><a href="#">QUI SOMMES-NOUS</a></li>
+            <li>
+              <a href="#" id="langue">
+                NOS LANGUES TRADUITES
+                <section id="submenu">
+                  <ul>
+                    <li><a href="#">LANGUES ORIGINAIRE ÉTHIOPIE</a></li>
+                    <li><a href="#">LANGUES ORIGINAIRE ÉRYTHRÉE</a></li>
+                    <li><a href="#">LANGUES ORIGINAIRE ARABE</a></li>
+                  </ul>
+                </section>
+              </a>
             </li>
-            <li>CONTACT</li>
+            <li><a href="#">CONTACT</a></li>
           </ul>
         </nav>
       </section>
