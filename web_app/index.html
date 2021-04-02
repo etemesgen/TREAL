@@ -7,6 +7,11 @@
     <link rel="stylesheet" type="text/css" href="./css/style.css" />
     <link rel="stylesheet" type="text/css" href="./css/responsive.css" />
     <link rel="shortcut icon" type="image/png" href="./asset/TREAL.ico" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat&family=Source+Sans+Pro&display=swap"
+      rel="stylesheet"
+    />
     <title>TREAL</title>
   </head>
   <body>
@@ -27,7 +32,9 @@
       </section>
 
       <section id="nav2">
-        <img src="./asset/TREAL_V2.png" alt="logo" id="logo" />
+        <a href="#nav1"
+          ><img src="./asset/TREAL_V2.png" alt="logo" id="logo"
+        /></a>
         <nav>
           <ul>
             <li><a href="#nav1">ACCUEIL</a></li>
@@ -61,7 +68,9 @@
       </section>
 
       <section id="arrow">
-        <a href="#title"><img src="./asset/arrow.png" alt="arrow" /></a>
+        <a href="#title" class="hvr-sink"
+          ><img src="./asset/arrow.png" alt="arrow"
+        /></a>
       </section>
 
       <!--HOME PAGE DONE Starting second page...-->
@@ -148,15 +157,16 @@
 
       <section id="desc_erythree">
         <p>
-          Le Tigrigna est une langue chamito-sémitique appartenant <br />
-          à la famille des langues sémitiques et parlée essentiellement <br />au
-          nord-est de la Corne de l'Afrique. C'est la langue officielle <br />de
-          l'Érythrée et, en Éthiopie, de l'État régional du Tigré. <br />Le
-          tigrigna avait 4 320 000 locuteurs en Éthiopie en 2007, 2 540 000 en
-          <br />Érythrée en 2006, et quelque 6 915 000 tous pays confondus1.
-          <br />Il est aussi beaucoup parlé en seconde langue, tant en Érythrée
-          et en Éthiopie, qu'au sud-est du Nord Soudan et à Djibouti, <br />ce
-          qui rend difficiles les estimations des locuteurs de cette langue.
+          Le Tigrigna est une langue chamito-sémitique appartenant à la famille
+          des langues sémitiques et parlée essentiellement <br />au nord-est de
+          la Corne de l'Afrique. <br /><br />C'est la langue officielle de
+          l'Érythrée et, en Éthiopie, de l'État régional <br />du Tigré.
+          <br /><br />Le Tigrigna avait 4 320 000 locuteurs en Éthiopie en 2007,
+          2 540 000 en <br />Érythrée en 2006, et quelque 6 915 000 tous pays
+          confondus. <br /><br />Il est aussi beaucoup parlé en seconde langue,
+          tant en Érythrée et en Éthiopie, qu'au sud-est du Nord Soudan et à
+          Djibouti, <br />ce qui rend difficiles les estimations des locuteurs
+          de cette langue.
         </p>
       </section>
 
@@ -176,27 +186,22 @@
       <section id="desc_arabe">
         <p>
           L’arabe est une langue afro-asiatique de la famille des langues
-          sémitiques. <br />Avec un nombre de locuteurs estimé entre 315 421
-          3001 et 375 millions de personnes au sein du monde arabe et de la
-          diaspora arabe, l'arabe est de loin la langue sémitique la plus
-          parlée, bien avant l'amharique (seconde langue sémitique la plus
+          sémitiques. <br /><br />Avec un nombre de locuteurs estimé entre 315
+          421 3001 et 375 millions de personnes <br />au sein du monde arabe et
+          de la diaspora arabe, l'arabe est de loin la langue sémitique <br />la
+          plus parlée, bien avant l'amharique (seconde langue sémitique la plus
           parlée). <br />
+          <br />
           C'est la langue officielle de plus de vingt pays et de plusieurs
           organismes internationaux, <br />dont l'une des six langues
-          officielles de l’Organisation des Nations unies. <br />
-          La prononciation de l'arabe comporte un nombre assez élevé de
-          consonnes (28 en arabe littéral) et peu de voyelles (trois timbres et
-          deux longueurs en littéral, souvent un peu plus en dialectal). <br />
-          L'arabe s'écrit au moyen de l'alphabet arabe. Par sa grammaire,
-          l'arabe est une langue accusative et flexionnelle qui fait un usage
-          important de la flexion interne. <br />La syntaxe suit dans la
-          proposition l'ordre fondamental verbe-sujet-objet, et le déterminant
-          suit le déterminé dans le groupe nominal.
+          officielles de l’Organisation des Nations unies.
         </p>
       </section>
 
+      <hr id="target5" />
+
       <section id="contact">
-        <p>Contactez nous</p>
+        <p>Contactez-nous</p>
         <hr />
         <img src="./asset/contact.jpg" />
         <form action="#" method="POST">
@@ -209,12 +214,24 @@
           <label for="message"
             >Envoyez nous un message / Demander un devis...</label
           >
-          <input type="text" name="message" id="message" />
+          <textarea id="message" name="message"></textarea>
+          <br />
+          <input type="submit" value="Envoyer" />
         </form>
       </section>
     </main>
 
-    <footer></footer>
+    <footer>
+      <p id="adressef">
+        <a
+          href="https://www.google.com/maps/place/176+Rue+de+Javel,+75015+Paris/@48.840783,2.291673,14z/data=!4m13!1m7!3m6!1s0x47e6701394d4343f:0x652056052e5648c4!2s176+Rue+de+Javel,+75015+Paris!3b1!8m2!3d48.8407732!4d2.2915253!3m4!1s0x47e6701394d4343f:0x652056052e5648c4!8m2!3d48.8407732!4d2.2915253"
+          target="_blank"
+          >Adresse : 176 RUE DE JAVEL 75015</a
+        >
+      </p>
+
+      <p id="telf">Tél : 07 73 06 60 91</p>
+    </footer>
     <script src="./js/app.js"></script>
   </body>
 </html>
