@@ -39,7 +39,7 @@
   }
 
   #adresse {
-    margin: 5rem 0rem 0rem 17rem;
+    margin: 5rem 0rem 0rem 10rem;
     font-weight: bold;
     color: rgb(49, 49, 49);
   }
@@ -58,7 +58,7 @@
   }
 
   #tel {
-    margin: 2rem 6rem 0rem 19rem;
+    margin: 2rem 6rem 0rem 13rem;
   }
 
   #nav2 {
@@ -165,7 +165,7 @@
   #arrow img {
     max-width: 100%;
     width: 4rem;
-    margin: 6rem 0rem 0rem 22rem;
+    margin: 7rem 0rem 0rem 15rem;
     opacity: 0.7;
   }
 
@@ -191,7 +191,7 @@
   }
 
   #title {
-    margin: 5rem 0rem 0rem 12rem;
+    margin: 5rem 0rem 0rem 8rem;
     font-size: 2rem;
     font-family: "Montserrat", sans-serif;
   }
@@ -215,12 +215,12 @@
   #us img {
     width: 22rem;
     border-radius: 2rem;
-    margin: 6rem 0rem 0rem 3rem;
+    margin: 6rem 0rem 0rem 2rem;
   }
 
   #us h1 {
     font-size: 2rem;
-    margin: -18rem 0rem 0rem 33rem;
+    margin: -18rem 0rem 0rem 28rem;
     font-family: "Montserrat", sans-serif;
     font-weight: bold;
   }
@@ -234,31 +234,31 @@
   #logo3 img {
     max-width: 100%;
     width: 12rem;
-    margin: -3rem 0rem 0rem 33rem;
+    margin: -3rem 0rem 0rem 25rem;
   }
 
   #target2 {
     width: 30rem;
     margin-top: 3rem;
-    margin-left: 9rem;
+    margin-left: 5rem;
   }
 
   #langue_ethiopie p {
-    font-size: 2rem;
-    margin: 20rem 0rem 0rem 2rem;
+    font-size: 1.7rem;
+    margin: 20rem 0rem 0rem 1rem;
     font-weight: bold;
     font-family: "Montserrat", sans-serif;
   }
 
   #langue_ethiopie img {
     max-width: 100%;
-    width: 4rem;
-    margin: -2.5rem 0rem 2rem 40rem;
+    width: 3.2rem;
+    margin: -2rem 0rem 2rem 32rem;
     border-radius: 2rem;
   }
 
   #liste_langue {
-    border: 1rem solid #222;
+    border: 0.7rem solid #222;
   }
 
   #amhara {
@@ -269,7 +269,7 @@
   #amhara img {
     max-width: 100%;
     width: 7rem;
-    margin: 4rem 0rem 10rem 19.59rem;
+    margin: 4rem 0rem 10rem 17rem;
     border-radius: 2rem;
   }
 
@@ -288,7 +288,7 @@
   #hadiya img {
     max-width: 100%;
     width: 7rem;
-    margin: 4rem 0rem 10rem 19.59rem;
+    margin: 4rem 0rem 10rem 17rem;
     border-radius: 2rem;
   }
 
@@ -307,7 +307,7 @@
   #tigre img {
     max-width: 100%;
     width: 7rem;
-    margin: 4rem 0rem 10rem 19.59rem;
+    margin: 4rem 0rem 10rem 17rem;
     border-radius: 2rem;
   }
 
@@ -326,7 +326,7 @@
   #oromo img {
     max-width: 100%;
     width: 7rem;
-    margin: 4rem 0rem 10rem 19.59rem;
+    margin: 4rem 0rem 10rem 17rem;
     border-radius: 2rem;
   }
 
@@ -344,12 +344,12 @@
   #target3 {
     width: 30rem;
     margin-top: 3rem;
-    margin-left: 9rem;
+    margin-left: 5rem;
   }
 
   #langue_erythree p {
-    font-size: 2rem;
-    margin: 20rem 0rem 0rem 2rem;
+    font-size: 1.7rem;
+    margin: 20rem 0rem 0rem 1rem;
     font-weight: bold;
     font-family: "Montserrat", sans-serif;
   }
@@ -357,7 +357,7 @@
   #langue_erythree img {
     max-width: 100%;
     width: 4rem;
-    margin: -2.5rem 0rem 2rem 40rem;
+    margin: -2rem 0rem 2rem 32rem;
     border-radius: 2rem;
   }
 
@@ -387,12 +387,12 @@
   #target4 {
     width: 30rem;
     margin-top: 3rem;
-    margin-left: 9rem;
+    margin-left: 5rem;
   }
 
   #langue_arabe p {
-    font-size: 2rem;
-    margin: 20rem 0rem 0rem 2rem;
+    font-size: 1.7rem;
+    margin: 20rem 0rem 0rem 1rem;
     font-weight: bold;
     font-family: "Montserrat", sans-serif;
   }
@@ -400,7 +400,7 @@
   #langue_arabe img {
     max-width: 100%;
     width: 4rem;
-    margin: -2.5rem 0rem 2rem 37rem;
+    margin: -2.5rem 0rem 2rem 29rem;
     border-radius: 2rem;
   }
 
@@ -430,7 +430,7 @@
   #target5 {
     width: 30rem;
     margin-top: 3rem;
-    margin-left: 9rem;
+    margin-left: 5rem;
   }
 
   #contact {
@@ -439,14 +439,14 @@
   }
 
   #contact p {
-    margin: 17rem 0rem 0rem 15rem;
+    margin: 17rem 0rem 0rem 8rem;
     font-size: 2rem;
     font-family: "Montserrat", sans-serif;
   }
 
   #contact hr {
     width: 16rem;
-    margin-left: 15rem;
+    margin-left: 8rem;
     border-color: #ff6600;
     margin-top: -0.1rem;
   }
@@ -501,11 +501,11 @@
 
   #adressef {
     font-weight: bold;
-    margin: 4rem 0rem 0rem 12rem;
+    margin: 4rem 0rem 0rem 5rem;
   }
 
   #telf {
     font-weight: bold;
-    margin: 1.8rem 0rem 0rem 17rem;
+    margin: 1.8rem 0rem 0rem 11rem;
   }
 }
