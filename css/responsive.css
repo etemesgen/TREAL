@@ -39,7 +39,7 @@
   }
 
   #adresse {
-    margin: 5rem 0rem 0rem 10rem;
+    margin: 5rem 0rem 0rem 11rem;
     font-weight: bold;
     color: rgb(49, 49, 49);
   }
@@ -58,7 +58,7 @@
   }
 
   #tel {
-    margin: 2rem 6rem 0rem 13rem;
+    margin: 2rem 6rem 0rem 15rem;
   }
 
   #nav2 {
@@ -165,7 +165,7 @@
   #arrow img {
     max-width: 100%;
     width: 4rem;
-    margin: 7rem 0rem 0rem 15rem;
+    margin: 7rem 0rem 0rem 17rem;
     opacity: 0.7;
   }
 
@@ -191,7 +191,7 @@
   }
 
   #title {
-    margin: 5rem 0rem 0rem 8rem;
+    margin: 5rem 0rem 0rem 10rem;
     font-size: 2rem;
     font-family: "Montserrat", sans-serif;
   }
@@ -215,7 +215,7 @@
   #us img {
     width: 22rem;
     border-radius: 2rem;
-    margin: 6rem 0rem 0rem 2rem;
+    margin: 6rem 0rem 0rem 2.5rem;
   }
 
   #us h1 {
@@ -253,7 +253,7 @@
   #langue_ethiopie img {
     max-width: 100%;
     width: 3.2rem;
-    margin: -2rem 0rem 2rem 32rem;
+    margin: -2rem 0rem 2rem 34rem;
     border-radius: 2rem;
   }
 
@@ -357,7 +357,7 @@
   #langue_erythree img {
     max-width: 100%;
     width: 4rem;
-    margin: -2rem 0rem 2rem 32rem;
+    margin: -2rem 0rem 2rem 34rem;
     border-radius: 2rem;
   }
 
@@ -400,7 +400,7 @@
   #langue_arabe img {
     max-width: 100%;
     width: 4rem;
-    margin: -2.5rem 0rem 2rem 29rem;
+    margin: -2.5rem 0rem 2rem 33rem;
     border-radius: 2rem;
   }
 
@@ -439,7 +439,7 @@
   }
 
   #contact p {
-    margin: 17rem 0rem 0rem 8rem;
+    margin: 17rem 0rem 0rem 12rem;
     font-size: 2rem;
     font-family: "Montserrat", sans-serif;
   }
@@ -501,11 +501,11 @@
 
   #adressef {
     font-weight: bold;
-    margin: 4rem 0rem 0rem 5rem;
+    margin: 4rem 0rem 0rem 7rem;
   }
 
   #telf {
     font-weight: bold;
-    margin: 1.8rem 0rem 0rem 11rem;
+    margin: 1.8rem 0rem 0rem 13rem;
   }
 }
