@@ -360,7 +360,7 @@ span {
 #langue_erythree img {
   max-width: 100%;
   width: 8rem;
-  margin: -5rem 0rem 2rem 103rem;
+  margin: -5rem 0rem 2rem 100rem;
   border-radius: 2rem;
 }
 
@@ -400,9 +400,9 @@ span {
 
 #langue_arabe img {
   max-width: 100%;
-  width: 8rem;
-  margin: -5rem 0rem 2rem 95rem;
-  border-radius: 2rem;
+  width: 7rem;
+  margin: -5rem 0rem 2rem 92rem;
+  border-radius: 5rem;
 }
 
 #paysage_arabe p {

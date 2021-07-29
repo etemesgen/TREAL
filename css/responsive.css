@@ -253,7 +253,7 @@
   #langue_ethiopie img {
     max-width: 100%;
     width: 3.2rem;
-    margin: -2rem 0rem 2rem 34rem;
+    margin: -2rem 0rem 2rem 36rem;
     border-radius: 2rem;
   }
 
@@ -357,7 +357,7 @@
   #langue_erythree img {
     max-width: 100%;
     width: 4rem;
-    margin: -2rem 0rem 2rem 34rem;
+    margin: -2rem 0rem 2rem 35rem;
     border-radius: 2rem;
   }
 
@@ -446,7 +446,7 @@
 
   #contact hr {
     width: 16rem;
-    margin-left: 8rem;
+    margin-left: 12rem;
     border-color: #ff6600;
     margin-top: -0.1rem;
   }
@@ -507,5 +507,129 @@
   #telf {
     font-weight: bold;
     margin: 1.8rem 0rem 0rem 13rem;
+  }
+}
+
+@media only screen and (min-width: 1500px) {
+  #adresse {
+    margin: 5rem 0rem 0rem 18rem;
+    font-weight: bold;
+    color: rgb(49, 49, 49);
+  }
+
+  #slogan {
+    margin: -3rem 0rem 0rem 55rem;
+  }
+
+  #tel {
+    position: absolute;
+    margin-left: 150rem;
+  }
+
+  #nav2 ul {
+    margin-left: 30rem;
+  }
+
+  #homepage img {
+    max-width: 100%;
+    width: 190rem;
+    height: 85rem;
+  }
+
+  #ad p {
+    display: flex;
+    margin: -70rem 0rem 0rem 50rem;
+  }
+
+  #arrow img {
+    margin: 35rem 0rem 0rem 90rem;
+  }
+
+  #title p {
+    margin-left: 27rem;
+  }
+
+  #title hr {
+    margin-left: 27rem;
+  }
+
+  #target2 {
+    margin-left: 65rem;
+  }
+
+  #langue_ethiopie p {
+    margin-left: 55rem;
+  }
+
+  #langue_ethiopie img {
+    margin-left: 135rem;
+  }
+
+  #amhara img {
+    margin-left: 27rem;
+  }
+
+  #hadiya img {
+    margin-left: 85rem;
+  }
+
+  #tigre img {
+    margin-left: 27rem;
+  }
+
+  #oromo img {
+    margin-left: 85rem;
+  }
+
+  #target3 {
+    margin-left: 62rem;
+  }
+
+  #langue_erythree p {
+    margin-left: 55rem;
+  }
+
+  #langue_erythree img {
+    margin-left: 132rem;
+  }
+
+  #target4 {
+    margin-left: 62rem;
+  }
+
+  #langue_arabe p {
+    margin-left: 60rem;
+  }
+
+  #langue_arabe img {
+    margin-left: 123rem;
+  }
+
+  #contact p {
+    margin-left: 85rem;
+  }
+
+  #contact hr {
+    margin-left: 85rem;
+  }
+
+  #contact img {
+    max-width: 100%;
+    width: 65rem;
+    height: 35rem;
+    margin-left: 20rem;
+  }
+
+  form {
+    margin-left: 100rem;
+    margin-top: -37rem;
+  }
+
+  #adressef {
+    margin-left: 23rem;
+  }
+
+  #telf {
+    margin-left: 57rem;
   }
 }
